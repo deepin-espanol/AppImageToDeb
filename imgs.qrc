@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>builder.png</file>
+        <file>Logo-Racoon.png</file>
+    </qresource>
+</RCC>
