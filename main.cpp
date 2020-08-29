@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
      //descritcion
      dialog.setProductName("<span>Tool to convert Appimage to deb, allows to build deb packages with Appimage.</span>");
      //icons
-     dialog.setProductIcon(QIcon(":/imege/passwordgenerator.svg"));
+     //dialog.setProductIcon(QIcon("://builder.png"));
      dialog.setCompanyLogo(QPixmap("://Logo-Racoon.png"));
      //about
      dialog.setDescription(
