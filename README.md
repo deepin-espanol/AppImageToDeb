@@ -5,7 +5,7 @@ Tool to convert Appimage to deb, allows to build deb packages with Appimage
 Fork to [AppimageToDeb](https://gitee.com/deepin-community-store/AppimageToDeb) 
 
 
-## Instrucciones de uso
+## Instructions for use:
 
   
 1. Click the button to open the Appimage file or drag it in.
